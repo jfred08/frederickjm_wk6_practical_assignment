@@ -1,0 +1,12 @@
+body {
+  background-color: lightgrey;
+}
+
+.hero-top {
+  background: url("../images/header.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.page-footer {
+  background-color: lightblue;
+}
